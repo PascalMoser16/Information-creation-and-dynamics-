@@ -5,6 +5,22 @@
 [![License: EUPL-1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
 [![Status: Early Stage](https://img.shields.io/badge/Status-Early%20Stage-yellow.svg)]()
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)]()
+[![Preprint: Zenodo](https://img.shields.io/badge/Preprint-Zenodo-blue.svg)](https://doi.org/10.5281/zenodo.18878038)
+
+---
+
+## Preprint Published
+
+The theoretical foundation of this framework has been published as a scientific preprint:
+
+**"Information Creation as a Universal Phase Transition:
+A Boltzmann Transport Framework for Emergent Collective Dynamics in Nonlinear Threshold Networks"**
+
+*Pascal Moser, Independent Researcher, Málaga, Spain (2026)*
+
+> We develop a unified statistical-mechanical framework in which information creation — the progressive reduction of Shannon entropy through iterative correlation detection — is identified as the fundamental mechanism underlying emergent collective behavior in networks of nonlinear threshold elements. The framework connects Kullback–Leibler divergence minimization, an extended Boltzmann Transport Equation with correlation-dependent scattering, Fermi–Dirac statistics as the neural equilibrium baseline, and a precise mathematical definition of emergence as a second-order phase transition at C = 0.5. A closed-form derivation yields the alpha frequency (~10 Hz) from membrane parameters alone — without free fitting parameters.
+
+📄 **DOI: [10.5281/zenodo.18878038](https://doi.org/10.5281/zenodo.18878038)**
 
 ---
 
@@ -132,6 +148,7 @@ Open an Issue to introduce yourself and indicate your background and interest ar
 
 | Component | Status |
 |---|---|
+| Theoretical foundation (preprint) | **Published — [Zenodo](https://doi.org/10.5281/zenodo.18878038)** |
 | BT-Element framework (theoretical) | Draft — internal |
 | Monte Carlo BTE prototype | Planned |
 | FEM benchmarking | Planned |
